@@ -1,3 +1,5 @@
+Certainly! Here's the text without HTML tags for the English version:
+
 # Help and Documentation
 
 *Welcome, here you will find all your questions answered and learn how to use FireNotes*
@@ -93,13 +95,13 @@ eloi.mesa@outlook.com
 ### Privacy Policy
 Here you can read the privacy policy of this website and the extension.
 
-[Read the Web Privacy Policy of FireNotes](https://firenotes-extension.github.io/privacy-w/)
+[Read the Web Privacy Policy of FireNotes](https://firenotes-extension.github.io/
+
+privacy-w/)
 
 [Read the Extension Privacy Policy](https://firenotes-extension.github.io/privacy-e)
 
-*The FireNotes application is not connected to the internet and does not collect any user information. Texts and settings are
-
- not saved on a server; they are saved locally.*
+*The FireNotes application is not connected to the internet and does not collect any user information. Texts and settings are not saved on a server; they are saved locally.*
 
 *It is possible that data analytics samples, such as language, country, active users, etc., are collected from extension stores. Therefore, it is advisable to review the policies of the stores where you intend to download the extension.*
 
