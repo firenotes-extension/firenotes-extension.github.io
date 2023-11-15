@@ -20,11 +20,11 @@ document.addEventListener("DOMContentLoaded", function() {
         <p>FireNotes is a notepad application that you can open anytime, anywhere. No matter where you are on the web, you can always consult and edit your notepad. Plus, you can use useful features like dark mode or the burn button. Whoever you are, FireNotes will be a great help to you!</p>
         <h3>How and where can I install FireNotes?</h3>
         <p>FireNotes is available for download on Mozilla Firefox from the Firefox Add-ons store, completely free of charge. If you don't have Firefox or simply don't want to install it, you can use it without prior installation from our website and use the web version of the program.</p>
-        <a href="https://elmees21.github.io/firenotes/download" target="_blank">
+        <a href="https://firenotes-extension.github.io/download" target="_blank">
             <button class="mini-button">Download Now</button>
         </a>
         <p></p>
-        <a href="https://elmees21.github.io/firenotes/web-version" target="_blank">
+        <a href="https://firenotes-extension.github.io/web-version" target="_blank">
             <button class="mini-button">Web Version</button>
         </a>
         <h3>Is FireNotes available for other browsers?</h3>
@@ -76,18 +76,18 @@ document.addEventListener("DOMContentLoaded", function() {
         <p>eloi.mesa@outlook.com</p>
         <h3>Privacy Policy</h3>
         <p>Here you can read the privacy policy of this website and the extension.</p>
-        <a href="https://elmees21.github.io/firenotes/privacy-w" target="_blank">
+        <a href="https://firenotes-extension.github.io/privacy-w/" target="_blank">
             <button class="mini-button">Read the Web Privacy Policy of FireNotes</button>
         </a>
         <p></p>
-        <a href="https://elmees21.github.io/firenotes/privacy-e" target="_blank">
+        <a href="https://firenotes-extension.github.io/privacy-e" target="_blank">
             <button class="mini-button">Read the Extension Privacy Policy</button>
         </a>
         <p><i>The FireNotes application is not connected to the internet and does not collect any user information. Texts and settings are not saved on a server; they are saved locally.</i></p>
         <p><i>It is possible that data analytics samples, such as language, country, active users, etc., are collected from extension stores. Therefore, it is advisable to review the policies of the stores where you intend to download the extension.</i></p>
         <h3>Developers</h3>
         <p>If you are interested, please consult the open-source page, where you will find our extension's GitHub repository, translations, and technical data.</p>
-        <a href="https://elmees21.github.io/firenotes/dev" target="_blank">
+        <a href="https://firenotes-extension.github.io/dev" target="_blank">
             <button class="mini-button">Go to the Open Source Page</button>
         </a>
         </div>
@@ -113,11 +113,11 @@ document.addEventListener("DOMContentLoaded", function() {
         <p>FireNotes es una aplicación de bloc de notas la cual puedes abrirla como quieras y cuando quieras. No importa en que parte de la web estés, siempre podrás consultar y editar tu bloc. Además, puedes usar funciones útiles, como el modo oscuro o el botón de quemar. Seas quien seas, ¡FireNotes te será de gran ayuda!</p>
         <h3>¿Como y donde puedo instalar FireNotes?</h3>
         <p>FireNotes está disponible para descargar en Mozilla Firefox desde la tienda de Complementos para Firefox (Firefox Add-ons) de forma completamente gratuita. Si no dispones de Firefox o simplemente no lo quieres instalar, puedes usarlo sin instalación previa desde nuestra página web y usar la versión web del programa.</p>
-        <a href="https://elmees21.github.io/firenotes/download" target="_blank">
+        <a href="https://firenotes-extension.github.io/download" target="_blank">
             <button class="mini-button">Descargar ahora</button>
           </a>
           <p> </p>
-        <a href="https://elmees21.github.io/firenotes/web-version" target="_blank">
+        <a href="https://firenotes-extension.github.io/web-version" target="_blank">
             <button class="mini-button">Versión Web</button>
           </a>
         <h3>¿FireNotes está disponible para otros navegadores?</h3>
@@ -169,18 +169,18 @@ document.addEventListener("DOMContentLoaded", function() {
         <p>eloi.mesa@outlook.com</p>
         <h3>Política de Privacidad</h3>
         <p>Aquí puedes leer la política de privacidad de este sitio web y de la extensión.</p>
-        <a href="https://elmees21.github.io/firenotes/privacy-w" target="_blank">
+        <a href="https://firenotes-extension.github.io/privacy-w/" target="_blank">
             <button class="mini-button">Leer la Política de Privacidad de la Web de FireNotes</button>
           </a>
           <p> </p>
-        <a href="https://elmees21.github.io/firenotes/privacy-e" target="_blank">
+        <a href="https://firenotes-extension.github.io/privacy-e" target="_blank">
             <button class="mini-button">Leer la Política de Privacidad de la extensión</button>
           </a>
         <p><i>La aplicación de FireNotes no está conectada a internet y no recoge ningún tipo información de los usuarios. Los textos y configuraciones no se guardan en un servidor, se guardan localmente.</i></p>
         <p><i>Es posible que desde las tiendas de extensiones se recojan muestras de datos analíticos, como el idioma, país, usuarios activos, etc. Por ello es conveniente revisar las políticas de las tiendas donde usted vaya a descargar la extensión.</i></p>
         <h3>Desarrolladores</h3>
         <p>Si estáis interesados, consultad la página de código abierto, donde encontraréis el repositorio de GitHub de nuestra extensión, traducciones, y datos técnicos.</p>
-        <a href="https://elmees21.github.io/firenotes/dev" target="_blank">
+        <a href="https://firenotes-extension.github.io/dev" target="_blank">
             <button class="mini-button">Ir a la página de código abierto</button>
           </a>
         </div>
@@ -207,11 +207,11 @@ document.addEventListener("DOMContentLoaded", function() {
         <p>FireNotes és una aplicació de bloc de notes que pots obrir com vulguis i quan vulguis. No importa en quina part de la web estiguis, sempre podràs consultar i editar el teu bloc. A més, pots fer servir funcions útils, com el mode fosc o el botó de cremar. Siguis qui siguis, FireNotes et serà de gran ajuda!</p>
         <h3>Com i on puc instal·lar FireNotes?</h3>
         <p>FireNotes està disponible per descarregar a Mozilla Firefox des de la botiga de Complements per a Firefox (Firefox Add-ons) de forma completament gratuïta. Si no disposes de Firefox o simplement no el vols instal·lar, pots fer servir-lo sense instal·lació prèvia des de la nostra pàgina web i fer servir la versió web del programa.</p>
-        <a href="https://elmees21.github.io/firenotes/download" target="_blank">
+        <a href="https://firenotes-extension.github.io/download" target="_blank">
         <button class="mini-button">Descarregar ara</button>
         </a>
         <p> </p>
-        <a href="https://elmees21.github.io/firenotes/web-version" target="_blank">
+        <a href="https://firenotes-extension.github.io/web-version" target="_blank">
         <button class="mini-button">Versió Web</button>
         </a>
         <h3>FireNotes està disponible per altres navegadors?</h3>
@@ -263,18 +263,18 @@ document.addEventListener("DOMContentLoaded", function() {
         <p>eloi.mesa@outlook.com</p>
         <h3>Política de Privadesa</h3>
         <p>Aquí pots llegir la política de privadesa d'aquest lloc web i de l'extensió.</p>
-        <a href="https://elmees21.github.io/firenotes/privacy-w" target="_blank">
+        <a href="https://firenotes-extension.github.io/privacy-w/" target="_blank">
         <button class="mini-button">Llegir la Política de Privadesa de la Web de FireNotes</button>
         </a>
         <p> </p>
-        <a href="https://elmees21.github.io/firenotes/privacy-e" target="_blank">
+        <a href="https://firenotes-extension.github.io/privacy-e" target="_blank">
         <button class="mini-button">Llegir la Política de Privadesa de l'extensió</button>
         </a>
         <p><i>L'aplicació de FireNotes no està connectada a internet i no recopila cap tipus d'informació dels usuaris. Els textos i configuracions no es guarden en un servidor, es guarden localment.</i></p>
         <p><i>És possible que des de les botigues d'extensions es recullin mostres de dades analítiques, com l'idioma, país, usuaris actius, etc. Per això és convenient revisar les polítiques de les botigues on vulguis descarregar l'extensió.</i></p>
         <h3>Desenvolupadors</h3>
         <p>Si esteu interessats, consulteu la pàgina de codi obert, on trobareu el repositori de GitHub de la nostra extensió, traduccions i dades tècniques.</p>
-        <a href="https://elmees21.github.io/firenotes/dev" target="_blank">
+        <a href="https://firenotes-extension.github.io/dev" target="_blank">
         <button class="mini-button">Anar a la pàgina de codi obert</button>
         </a>
         </div>
@@ -300,11 +300,11 @@ document.addEventListener("DOMContentLoaded", function() {
         <p>FireNotes è un'applicazione di blocco note che puoi aprire quando e come desideri. Non importa in quale parte del web ti trovi, sarai sempre in grado di consultare e modificare il tuo blocco note. Inoltre, puoi utilizzare funzioni utili come la modalità scura o il pulsante di "bruciatura". Sia chi sia, FireNotes ti sarà di grande aiuto!</p>
         <h3>Come e dove posso installare FireNotes?</h3>
         <p>FireNotes è disponibile per il download su Mozilla Firefox dallo store dei componenti aggiuntivi di Firefox (Firefox Add-ons) in modo completamente gratuito. Se non hai Firefox o semplicemente non desideri installarlo, puoi utilizzarlo senza una preinstallazione dal nostro sito web e utilizzare la versione web del programma.</p>
-        <a href="https://elmees21.github.io/firenotes/download" target="_blank">
+        <a href="https://firenotes-extension.github.io/download" target="_blank">
             <button class="mini-button">Scarica ora</button>
         </a>
         <p> </p>
-        <a href="https://elmees21.github.io/firenotes/web-version" target="_blank">
+        <a href="https://firenotes-extension.github.io/web-version" target="_blank">
             <button class="mini-button">Versione Web</button>
         </a>
         <h3>FireNotes è disponibile per altri browser?</h3>
@@ -356,18 +356,18 @@ document.addEventListener("DOMContentLoaded", function() {
         <p>eloi.mesa@outlook.com</p>
         <h3>Informativa sulla privacy</h3>
         <p>Qui puoi leggere l'informativa sulla privacy di questo sito web e dell'estensione.</p>
-        <a href="https://elmees21.github.io/firenotes/privacy-w" target="_blank">
+        <a href="https://firenotes-extension.github.io/privacy-w/" target="_blank">
         <button class="mini-button">Leggi l'informativa sulla privacy del sito web di FireNotes</button>
         </a>
         <p> </p>
-        <a href="https://elmees21.github.io/firenotes/privacy-e" target="_blank">
+        <a href="https://firenotes-extension.github.io/privacy-e" target="_blank">
         <button class="mini-button">Leggi l'informativa sulla privacy dell'estensione</button>
         </a>
         <p><i>L'applicazione di FireNotes non è connessa a Internet e non raccoglie alcun tipo di informazione sugli utenti. I testi e le impostazioni non vengono salvati su un server, ma localmente.</i></p>
         <p><i>È possibile che dalle store delle estensioni vengano raccolti dati analitici, come la lingua, il paese, gli utenti attivi, ecc. Pertanto, è consigliabile consultare le politiche delle store dove intendi scaricare l'estensione.</i></p>
         <h3>Sviluppatori</h3>
         <p>Se sei interessato, consulta la pagina del codice sorgente, dove troverai il repository di GitHub della nostra estensione, le traduzioni e le informazioni tecniche.</p>
-        <a href="https://elmees21.github.io/firenotes/dev" target="_blank">
+        <a href="https://firenotes-extension.github.io/dev" target="_blank">
         <button class="mini-button">Vai alla pagina del codice sorgente</button>
         </a>
         </div>
