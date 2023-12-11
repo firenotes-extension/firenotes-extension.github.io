@@ -22,11 +22,3 @@ document.addEventListener("DOMContentLoaded", function () {
     moreInfoButton.addEventListener("click", openInfoPopup);
   }
 });
-
-function redirectToFahrenheit() {
-  window.location.href = './fahrenheit/index.html';
-}
-
-function redirectToCelsius() {
-  window.location.href = '../index.html';
-}
