@@ -1,0 +1,48 @@
+body {
+    background-color:#111;
+    color:#fff;
+    font-family:Arial,sans-serif;
+    margin:0 8%;
+    font-size:120%
+    }
+    
+    header {
+    background-color:#f60;
+    padding:10px;
+    text-align:center
+    }
+    
+    header div {
+    display:flex;
+    justify-content:space-between;
+    align-items:center
+    }
+    
+    button {
+    border:none;
+    background-color:#f60;
+    font-family:Arial,sans-serif;
+    color:#fff;
+    border-radius:5px;
+    padding:5px 15px;
+    cursor:pointer;
+    transition:background-color .3s;
+    font-size:17px
+    }
+    
+    button:hover {
+    background-color:#f50
+    }
+    
+    a {
+    color:#f60;
+    text-decoration:none
+    }
+    
+    a:hover {
+    text-decoration:underline
+    }
+    
+    main {
+    margin-top:50px
+    }
